@@ -1,5 +1,12 @@
 # 💫 About Me:
-I am an aspiring full stack developer. I am proficient in data strutucres and algorithms.
+I'm an aspiring **Full Stack Developer** who enjoys building web applications from the ground up. With a solid foundation in **Data Structures & Algorithms**, I strive to write efficient and scalable code.
+
+## 🚀 Tech Stack
+
+- **Frontend**: React, Tailwind CSS, JavaScript, TypeScript
+- **Backend**: Node.js, Express
+- **Databases**: MongoDB, MySQL
+- **Tools & Platforms**: Git, GitHub, VS Code
 
 
 ## 🌐 Socials:
