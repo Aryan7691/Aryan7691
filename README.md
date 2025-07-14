@@ -6,7 +6,7 @@ I'm an aspiring **Full Stack Developer** who enjoys building web applications fr
 - **Frontend**: React, Tailwind CSS, JavaScript, TypeScript
 - **Backend**: Node.js, Express
 - **Databases**: MongoDB, MySQL
-- **Tools & Platforms**: Git, GitHub, VS Code
+- **Tools & Platforms**: Git, GitHub, PostMan
 
 
 ## 🌐 Socials:
